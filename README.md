@@ -2,9 +2,8 @@
 
 <table>
   <tr>
-    <td><b>About-Contact me</b></td>
-     <td><b>Activity-Familiarity-Skill(s)</b></td>
-
+    <td>$\color{green}{About-Contact me}$</td>
+    <td>$\color{green}{Activity-Familiarity-Skill(s)}$</td>
   </tr>
   <tr>
     <td valign="top">
