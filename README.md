@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
+    <td><b>About-Contact me</b></td>
+     <td><b>Activity-Familiarity-Skill(s)</b></td>
 
   </tr>
   <tr>
