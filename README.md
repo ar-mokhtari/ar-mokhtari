@@ -27,7 +27,7 @@
     <td valign="top">
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-mokhtari&theme=green-nur&border_radius=9&date_format=j%2Fn%5B%2FY%5D&card_width=150&ring=EBEBEB&fire=EB0000&border=5FEBE2)](https://git.io/streak-stats)
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-mokhtari&theme=green-nur&border_radius=9&date_format=j%2Fn%5B%2FY%5D&card_width=400&ring=EBEBEB&fire=EB0000&border=5FEBE2)](https://git.io/streak-stats)
    </td>
 
   </tr>
