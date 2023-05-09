@@ -1,4 +1,14 @@
-🔸 I am currently working on "Web Financial Software Development".
+
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+
+  </tr>
+  <tr>
+    <td valign="top">
+   🔸 I am currently working on "Web Financial Software Development".
 🔸 I am looking for cooperation in developing web applications.
 🔸 I am currently learning software engineering to improve and develop applications.
 🔸 At the age of 40 (2019), I decided to learn and master programming.
@@ -13,3 +23,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 
 
 [![](https://visitcount.itsvg.in/api?id=ar-mokhtari&icon=1&color=3)](https://visitcount.itsvg.in)
+   </td>
+    <td valign="top">
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-mokhtari&theme=green-nur&border_radius=9&date_format=j%2Fn%5B%2FY%5D&card_width=50&ring=EBEBEB&fire=EB0000&border=5FEBE2)](https://git.io/streak-stats)
+   </td>
+
+  </tr>
+ </table>
