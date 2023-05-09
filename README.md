@@ -1,13 +1,10 @@
-
-
 <table>
   <tr>
-    <td><b>About-Contact me</b></td>
+    <td width="50%"><b>About-Contact me</b></td>
      <td><b>Activity-Familiarity-Skill(s)</b></td>
-
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="middle" align="center">
 🔸 I am currently working on "Web Financial Software Development".
 🔸 I am looking for cooperation in developing web applications.
 🔸 I am currently learning software engineering to improve and develop applications.
@@ -17,10 +14,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=ar-mokhtari&icon=1&color=3)](https://visitcount.itsvg.in)
    </td>
-    <td valign="top">
+    <td valign="middle" align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-mokhtari&theme=green-nur&border_radius=9&date_format=j%2Fn%5B%2FY%5D&type=png&card_width=500&ring=EBEBEB&fire=EB0000&border=5FEBE2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-mokhtari&theme=green-nur&border_radius=9&date_format=j%2Fn%5B%2FY%5D&type=png&card_width=300&ring=EBEBEB&fire=EB0000&border=5FEBE2)](https://git.io/streak-stats)
       
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
