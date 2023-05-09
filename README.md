@@ -2,14 +2,15 @@
 
 <table>
   <tr>
-    <td>$\color{green}{About-Contact me}$</td>
-    <td>$\color{green}{Activity-Familiarity-Skill(s)}$</td>
+    <td><b>About-Contact me</b></td>
+     <td><b>Activity-Familiarity-Skill(s)</b></td>
+
   </tr>
   <tr>
     <td valign="top">
-🔸 I am currently working on "Web Financial Software Development". 
+🔸 I am currently working on "Web Financial Software Development".
 🔸 I am looking for cooperation in developing web applications.
-🔸 I am currently learning software engineering to improve and develop applications. 
+🔸 I am currently learning software engineering to improve and develop applications.
 🔸 At the age of 40 (2019), I decided to learn and master programming.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-mokhtari-garakani-b4288024) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2531467) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ar_mokhtari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar_mokhtari_g)
