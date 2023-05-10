@@ -40,18 +40,22 @@
       
 <td  colspan="2" align="center">
   
+  <h6>Sample images of software under development</h6>
+  
 <kbd>
-  <img src="" width="150" height="100" style="border-radius:50%" />
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/e4ff01b3-7ec5-4d7f-be29-2a717ba44e5e" width="150" height="100" style="border-radius:50%" />
   </kbd>
+
   
   <kbd>
-  <img src="" width="150" height="100" style="border-radius:50%" />
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/78b1a26d-acd4-431c-8806-f47156795eff" width="150" height="100" style="border-radius:50%" />
   </kbd>
-  
+
   
   <kbd>
-  <img src="" width="150" height="100" style="border-radius:50%" />
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/a0977e6d-3a51-45a9-8879-ca2d2965177b" width="150" height="100" style="border-radius:50%" />
   </kbd>
+
   
   
 </td>
