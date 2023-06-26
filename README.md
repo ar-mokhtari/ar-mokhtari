@@ -56,8 +56,16 @@
   <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/a0977e6d-3a51-45a9-8879-ca2d2965177b" width="150" height="100" style="border-radius:50%" />
   </kbd>
 
-  
-  
+    
+  <kbd>
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/15e86b9d-f000-4755-8d67-cdb0980629fd" width="150" height="100" style="border-radius:50%" />
+  </kbd>
+
+    
+  <kbd>
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/b387f40c-2062-40ef-ab7d-c3975cd49ad3" width="150" height="100" style="border-radius:50%" />
+  </kbd>
+
 </td>
   </tr>
  </table>
