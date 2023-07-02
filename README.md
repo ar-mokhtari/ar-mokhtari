@@ -77,3 +77,4 @@
 - :heart: **Kianoosh**  https://github.com/kianooshaz  With him I became interested in ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 - :heart: **Omid**  https://github.com/OmidHekayati  With him, I paid attention to ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
 - :heart: **Hossein**  https://github.com/gohossein  With him I developed apps with ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+- :heart: **Milad**  https://github.com/Miraddo  he give me a good React cource ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
