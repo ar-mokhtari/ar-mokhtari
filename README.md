@@ -68,7 +68,7 @@
 
       
   <kbd>
-  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/24e94804-06a1-4042-8263-dc08c12b25b0" width="150" height="100" style="border-radius:50%" />
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/a52e67ae-e098-417c-b99f-f67e6f25db8c" width="150" height="100" style="border-radius:50%" />
   </kbd>
   
 
@@ -77,7 +77,6 @@
  </table>
  
 ###### Special Thanks:  
-
 
 - :heart: **Ramin**  https://github.com/slashramin  With him I met  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 - :heart: **Kianoosh**  https://github.com/kianooshaz  With him I became interested in ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
