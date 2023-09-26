@@ -40,9 +40,9 @@
       
 <td  colspan="2" align="center">
   
-  <h6>Sample images of software under development</h6>
+  <h6>Sample images of finance software, under development</h6>
   
-<kbd>
+  <kbd>
   <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/e4ff01b3-7ec5-4d7f-be29-2a717ba44e5e" width="150" height="100" style="border-radius:50%" />
   </kbd>
 
@@ -75,7 +75,14 @@
   <kbd>
   <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/c67c2c92-bd01-4ae9-8bc8-7c389918e054" width="150" height="100" style="border-radius:50%" />
   </kbd>
-  
+
+  <h6>Sample images of basketball-analyze software, under development</h6>
+
+  <kbd>
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/e6bbf696-d916-4c57-97ef-c162bada202e" width="150" height="100" style="border-radius:50%" />
+  </kbd>
+
+ 
 
 </td>
   </tr>
