@@ -6,7 +6,7 @@
   <tr>
     <td valign="middle" >
 
-- Currently working on "Web Financial Software Development".
+- Currently working on "Web Financial Software Development" + "Basketball Analyze Software".
 - Looking for cooperation in developing web applications.
 - Learning software engineering to improve and develop applications.
 - At the age of 40 (2019), I decided to learn and master web application development.     
