@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="50%"><b>About-Contact me</b></td>
-     <td><b>Activity-Familiarity-Skill(s)</b></td>
+    <td width="50%" align="center"><b>About-Contact me</b></td>
+    <td width="50%" align="center"><b>Activity-Familiarity-Skill(s)</b></td>
   </tr>
   <tr>
     <td valign="middle" >
