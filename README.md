@@ -26,7 +26,7 @@
     <td valign="middle" align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-mokhtari&theme=green-nur&border_radius=9&date_format=j%2Fn%5B%2FY%5D&type=png&card_width=350&ring=EBEBEB&fire=EB0000&border=5FEBE2)](https://git.io/streak-stats)
+
       
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
