@@ -25,7 +25,7 @@
    </td>
     <td valign="middle" align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ar-mokhtari&theme=highcontrast&border_radius=30&card_width=368&ring=20BBEB&fire=EB0000&sideNums=00D6EB&border=67DBEB&stroke=38E1EB&currStreakNum=27EBCB&currStreakLabel=B7DEEB&sideLabels=EBEBEB&dates=94CAEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ar-mokhtari&theme=transparent&border_radius=30&card_width=368&ring=20BBEB&fire=EB0000&sideNums=00D6EB&border=67DBEB&stroke=38E1EB&currStreakNum=27EBCB&currStreakLabel=B7DEEB&sideLabels=EBEBEB&dates=94CAEB" alt="GitHub Streak" /></a>
       
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
