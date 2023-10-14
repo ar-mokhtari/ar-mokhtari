@@ -78,10 +78,9 @@
   <h6>Sample images of basketball-analyze software, under development</h6>
 
   <kbd>
-  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/e6bbf696-d916-4c57-97ef-c162bada202e" width="150" height="100" style="border-radius:50%" />
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/e9fd09ef-5bd8-4054-b071-205f427d6d15" width="150" height="100" style="border-radius:50%" />
   </kbd>
 
- 
 
 </td>
   </tr>
