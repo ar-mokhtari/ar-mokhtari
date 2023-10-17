@@ -83,9 +83,8 @@
 
   
   <kbd>
-  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/4ed24c9c-fc5c-4e56-9f02-9c77f0732fd8" width="150" height="100" style="border-radius:50%" />
+  <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/8c0b2039-d8a1-4367-b507-2b8d2b85e628" width="150" height="100" style="border-radius:50%" />
   </kbd>
-
 
 </td>
   </tr>
