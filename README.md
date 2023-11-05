@@ -11,7 +11,7 @@
 - Learning software engineering to improve and develop applications.
 
 > [!NOTE]  
-> At the age of **`40`** (2019), I decided to start learning web application development and develop practical software as I gain skills.   
+> At the age of <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/2e8d3f11-9ee2-4d01-878d-ce8447651f22" width="33" height="21" style="position:absolute;" />  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (2019), I decided to start learning web application development and develop practical software as I gain skills.   
 
  <div align="center">
 
