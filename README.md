@@ -10,8 +10,6 @@
   - Web Financial Software Development
   - Basketball Analyze Software
   - Develop CDP app with [Ormus Team](https://github.com/ormushq/ormus)
-- Looking for cooperation in developing web applications.
-- Learning software engineering to improve and develop applications.
 
 > [!NOTE]  
 > At the age of <img src="https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/2e8d3f11-9ee2-4d01-878d-ce8447651f22" width="33" height="25" style=" margin-bottom: -3px;" /> &nbsp;   (2019), I decided to start learning web application development and develop practical software as I gain skills.   
