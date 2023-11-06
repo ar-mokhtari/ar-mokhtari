@@ -7,9 +7,9 @@
     <td valign="middle" >
 
 - Currently working on:
-  - "Web Financial Software Development"
-  - "Basketball Analyze Software"
-  - "Develop CDP app with [Ormus Team](https://github.com/ormushq/ormus)"
+  - Web Financial Software Development
+  - Basketball Analyze Software
+  - Develop CDP app with [Ormus Team](https://github.com/ormushq/ormus)
 - Looking for cooperation in developing web applications.
 - Learning software engineering to improve and develop applications.
 
