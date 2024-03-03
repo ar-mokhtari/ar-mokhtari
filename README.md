@@ -1,4 +1,4 @@
-![image](https://github.com/ar-mokhtari/ar-mokhtari/assets/49469395/c5ee1f43-32fb-4cd4-9781-b66694d0a252)<table>
+<table>
   <tr>
     <td width="50%" align="center"><b>About-Contact me</b></td>
     <td width="50%" align="center"><b>Activity-Familiarity-Skill(s)</b></td>
@@ -100,7 +100,8 @@
 
 </td>
   </tr>
- </table>
+  
+</table>
  
 ###### Special Thanks:  
 
