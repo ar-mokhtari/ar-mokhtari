@@ -27,8 +27,6 @@
    </td>
     <td valign="middle" align="center">
       
-![loading11](https://github.com/user-attachments/assets/ecfb3dd6-9633-4afa-b519-f758aa3a9e3c)
-
       
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
@@ -37,6 +35,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 
       <h6>and more ...</h6>
+
+<img src="https://github.com/user-attachments/assets/ecfb3dd6-9633-4afa-b519-f758aa3a9e3c" width="80" height="80" style=" margin-bottom: -3px;"/>
+  
+> [!TIP]  
+> At the age of <img src="https://github.com/user-attachments/assets/d928f633-5186-4d59-a43e-192356f18e61" style="display:inline-block;vertical-align:middle; " /> &nbsp;  (2023), I decided to start learning to play 🏀 basketball in July 2023 ... It continues until now. 
+      
    </td>
     <tr>
       
